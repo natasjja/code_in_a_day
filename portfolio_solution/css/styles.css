@@ -1,0 +1,80 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: "Raleway", sans-serif;
+  font-size: 1.25rem;
+}
+
+header {
+  /* min-height: 100vh; */
+  background-color: white;
+}
+
+nav {
+  background-color: #e28413;
+  position: fixed;
+  width: 100%;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav li {
+  display: inline-block;
+  padding: 1rem;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+nav ul {
+  padding-left: 1.25rem;
+}
+
+header main {
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 4rem;
+}
+
+header img {
+  height: 400px;
+  padding-bottom: 80px;
+}
+
+header h1 {
+  font-family: "Pacifico", sans-serif;
+  letter-spacing: 5px;
+  color: #c42847;
+}
+
+.about-me {
+  padding: 3rem 10%;
+  line-height: 2;
+  background-color: #de3c4b;
+  color: white;
+}
+
+.projects {
+  color: white;
+  padding: 3rem 10%;
+  background-color: #000022;
+}
+
+.projects img {
+  width: 32%;
+  padding: 30px;
+  padding-left: 0;
+  box-sizing: border-box;
+}
+
+footer {
+  text-align: center;
+  background-color: #c42847;
+  color: white;
+  padding: 10px;
+}
