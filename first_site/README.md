@@ -1,6 +1,6 @@
-#My First Site
+# My First Site
 
-##HTML
+## HTML
 
 1.  Add some tags anywhere inside the `<body>` tags
 2.  Add a main heading to your page using the `<h1>` tag
@@ -15,7 +15,7 @@
 - Now embed the image in the page using the `<img>` tag
 - Go to https://www.w3schools.com/tags/tags_img.asp for help if you need
 
-##CSS
+## CSS
 
 1. Make sure your CSS is linked by adding the link to your CSS Stylesheet between the two `<head>` tags: `<link rel=“stylesheet” href=“css/styles.css”>`
 2. Let’s centre our page with CSS
