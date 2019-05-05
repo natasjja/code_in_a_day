@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(180, 180, 247);
+}
+
+main {
+  max-width: 600px;
+  margin: auto;
+  font-family: arial;
+}
+
+h1 {
+  color: white;
+  font-family: "Gugi";
+}
+
+img {
+  display: block;
+  width: 300px;
+}
