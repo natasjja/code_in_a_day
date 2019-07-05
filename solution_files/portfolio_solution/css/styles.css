@@ -9,7 +9,6 @@ body {
 }
 
 header {
-  /* min-height: 100vh; */
   background-color: white;
 }
 
@@ -35,18 +34,18 @@ nav ul {
   padding-left: 1.25rem;
 }
 
-header main {
+main {
   text-align: center;
   font-size: 1.5rem;
   padding-top: 4rem;
 }
 
-header img {
+main img {
   height: 400px;
   padding-bottom: 80px;
 }
 
-header h1 {
+main h1 {
   font-family: "Pacifico", sans-serif;
   letter-spacing: 5px;
   color: #c42847;
